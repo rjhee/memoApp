@@ -3,12 +3,12 @@
   "name": "simple memo",
   "icons": [
     {
-      "src": "/assets/icon.png",
+      "src": "./assets/icon.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/assets/icon.png",
+      "src": "./assets/icon.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -24,7 +24,7 @@
       "short_name": "memo",
       "description": "simple memo app",
       "url": "/today?source=pwa",
-      "icons": [{ "src": "/assets/icon.png", "sizes": "192x192" }]
+      "icons": [{ "src": "./assets/icon.png", "sizes": "192x192" }]
     }
   ],
   "description": "Weather forecast information",
