@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/memoApp/static/css/main.4d4fba88.chunk.css",
+    "main.js": "/memoApp/static/js/main.ed32be2e.chunk.js",
+    "main.js.map": "/memoApp/static/js/main.ed32be2e.chunk.js.map",
+    "runtime-main.js": "/memoApp/static/js/runtime-main.9ff49ca3.js",
+    "runtime-main.js.map": "/memoApp/static/js/runtime-main.9ff49ca3.js.map",
+    "static/js/2.24de0ee7.chunk.js": "/memoApp/static/js/2.24de0ee7.chunk.js",
+    "static/js/2.24de0ee7.chunk.js.map": "/memoApp/static/js/2.24de0ee7.chunk.js.map",
+    "index.html": "/memoApp/index.html",
+    "static/css/main.4d4fba88.chunk.css.map": "/memoApp/static/css/main.4d4fba88.chunk.css.map",
+    "static/js/2.24de0ee7.chunk.js.LICENSE.txt": "/memoApp/static/js/2.24de0ee7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9ff49ca3.js",
+    "static/js/2.24de0ee7.chunk.js",
+    "static/css/main.4d4fba88.chunk.css",
+    "static/js/main.ed32be2e.chunk.js"
+  ]
+}
